@@ -1,0 +1,4 @@
+Petr;Novotny;1l
+Eva;Svobodova;18 
+Jan;Maly;16 
+Karolina;Dlouha;17
